@@ -9,9 +9,9 @@ import TauCeti.LinearAlgebra.Matrix.SpecialLinearGroup.Transvection
 /-!
 # AutomorphismsOfFreeGroups: target signatures
 
-The roadmap is `README.md`; this file is not the roadmap. It states the roadmap's headline
-theorems against the pinned Mathlib and Tau Ceti, each with `sorry`, together with the few
-definitions needed to state them. The forms here are suggestions, not an exhaustive checklist.
+**This file is not the roadmap and is not exhaustive.** The definitive document is `README.md`.
+It states the roadmap's headline theorems against the pinned Mathlib and Tau Ceti, each with
+`sorry`, together with the few definitions needed to state them; the forms are suggestions.
 
 Stated here: Nielsen's generation theorem (§1.4); the abelianization representation, its
 surjectivity and the inner automorphisms in its kernel (§§2.2–2.4); principal congruence
